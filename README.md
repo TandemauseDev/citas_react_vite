@@ -40,7 +40,7 @@ Este proyecto es una aplicación web para gestionar citas veterinarias, construi
    npm install
 
 ## preview 
--  The application is available at [netlify](https://6568283d158c8769d0a6c389--cozy-liger-8bd0ee.netlify.app).
+-  The application is available at [netlify](https://startling-torte-8b1350.netlify.app).
 
 
 
